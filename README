@@ -1,4 +1,4 @@
-LinX Paper Wallet Generator
+Linx Paper Wallet Generator
 ---------------------------------------
 
 Live Version : https://mylinx.io/paperwallet
@@ -15,7 +15,7 @@ END USER NOTES:
 Notice of Copyrights and Licenses:
 ---------------------------------------
 
-LinX Paper Wallet Generator is a fork of the WalletGenerator.net Project, which is in turn
+Linx Paper Wallet Generator is a fork of the WalletGenerator.net Project, which is in turn
 a fork of the original bitaddress.org project.
 
 Both can be found on GitHub below :
@@ -23,7 +23,7 @@ Both can be found on GitHub below :
 https://github.com/MichaelMure/WalletGenerator.net
 https://github.com/pointbiz/bitaddress.org
 
-The LinX name and logo are not part of the open source license.
+The Linx name and logo are not part of the open source license.
 
 Portions of the all-in-one HTML document contain JavaScript codes that are the copyrights of others.
 The individual copyrights are included throughout the document along with their licenses.
@@ -42,8 +42,8 @@ window.Bitcoin        MIT License
 jsqrcode              Apache License, 2.0
 
 
-The LinX Paper Wallet Generator software is available under The MIT License (MIT)
-Copyright (c) 2017 mylinx.io
+The Linx Paper Wallet Generator software is available under The MIT License (MIT)
+Copyright (c) 2017 The Linx Partnership
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction, including
